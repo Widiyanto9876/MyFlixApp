@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_txt">Hello</string>
+    <string name="greeting_message">Hope you have a great day!</string>
+    <string name="add_to_watch_list_txt">Add to Watch List</string>
+    <string name="remove_from_watch_list_txt">Remove from Watch List</string>
+    <string name="cast_txt">Cast</string>
+    <string name="overview_txt">Overview</string>
+    <string name="empty_movie_msg">Ups, movie with current category is not exist. Try with another category!</string>
+</resources>

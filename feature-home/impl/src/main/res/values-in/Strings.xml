@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_txt">Halo</string>
+    <string name="greeting_message">Semoga harimu menyenangkan!</string>
+    <string name="add_to_watch_list_txt">Tambah ke Daftar Tonton</string>
+    <string name="remove_from_watch_list_txt">Hapus dari Daftar Tonton</string>
+    <string name="cast_txt">Pemeran</string>
+    <string name="overview_txt">Ringkasan</string>
+    <string name="empty_movie_msg">Ups, film dengan kategory saat ini tidak tersedia. Coba dengan kategori lain!</string>
+</resources>
